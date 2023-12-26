@@ -1,7 +1,7 @@
 {
     "name": "ultra/ultra",
     "type": "library",
-    "description": "Ultra library package.",
+    "description": "Complete package of Ultra libraries.",
     "license": "MIT",
     "repositories": [
         {
