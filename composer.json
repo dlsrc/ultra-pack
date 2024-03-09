@@ -1,5 +1,6 @@
 {
     "name": "ultra/ultra",
+    "version": "1.0.0",
     "type": "library",
     "description": "Complete package of Ultra libraries.",
     "license": "MIT",
@@ -18,7 +19,10 @@
     ],
     "require": {
         "php": ">=8.3",
+        "ultra/chars": "^1.0.0",
+        "ultra/data": "^1.0.0",
         "ultra/image": "^1.0.0",
-		"ultra/upload": "^1.0.0"
+        "ultra/net": "^1.0.0",
+        "ultra/upload": "^1.0.0"
     }
 }
