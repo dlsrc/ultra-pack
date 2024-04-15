@@ -20,7 +20,7 @@
     "require": {
         "php": ">=8.3",
         "ultra/chars": "^1.0.0",
-        "ultra/data": "^1.0.0",
+        "ultra/data-query": "^1.0.0",
         "ultra/image": "^1.0.0",
         "ultra/net": "^1.0.0",
         "ultra/upload": "^1.0.0"
